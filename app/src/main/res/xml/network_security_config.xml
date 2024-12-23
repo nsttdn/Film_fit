@@ -1,0 +1,5 @@
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">67c3-77-47-209-103.ngrok-free.app</domain>
+    </domain-config>
+</network-security-config>

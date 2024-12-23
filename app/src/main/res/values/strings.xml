@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilmFit</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_notifications">NotificationsActivity</string>
+    <string name="title_activity_wishlist">WishlistActivity</string>
+    <string name="title_activity_suggestions_user_film">SuggestionsUserFilmActivity</string>
+    <string name="title_activity_castome_film_idea">CastomeFilmIdeaActivity</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+    <string name="title_activity_recomented_film">RecomentedFilmActivity</string>
+</resources>
